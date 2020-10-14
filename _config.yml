@@ -24,10 +24,7 @@ googleplus_username: pbhargesh82
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Bhargesh and I'm looking to establish myself  as  a technocrat  in  the technological area, utilizing my  skills  for the benefit of  the corporate and the society as  whole.
-
-
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  Hi, my name's Bhargesh Patel and I'm looking to establish myself  as  a technocrat  in  the technological area, utilizing my  skills  for the benefit of  the corporate and the society as  whole.
 
 # Projects Section
 # projects_title: Projects
@@ -42,10 +39,10 @@ about_content: | # this will include new lines to allow paragraphs
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
   Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-   - Rock climbing
+   - Music
    - Gaming
-   - Knitting
-   - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+   - Reading
+   
 
 # Footer
 footer_show_references: true
