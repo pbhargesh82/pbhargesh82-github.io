@@ -11,9 +11,11 @@
   company: Database
   description: | # this will include new lines to allow paragraphs
    MySql, PL Sql, SQL Server
+- layout: left
   company: Webapp Development
   description: | # this will include new lines to allow paragraphs
    PHP, HTML, CSS, JavaScript, JQuery, BootStrap
+- layout: left
   company: Version Control
   description: | # this will include new lines to allow paragraphs
    GIT
