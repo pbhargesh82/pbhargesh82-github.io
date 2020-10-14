@@ -2,5 +2,7 @@
   <h3>{{ site.experience_title | default: "Skills" }}</h3>
   {% for experience in site.data.experience %}
     {% include {{ experience.layout | default: 'left' | append: ".html" }} item=experience %}
+  {% for experience in site.data.experience %}
+    {% include {{ experience.layout | default: 'left' | append: ".html" }} item=experience %}
   {% endfor %}
 </div>
