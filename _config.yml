@@ -23,7 +23,7 @@ linkedin_username: bhargesh-patel-2b6a111b9
 
 # About Section
 # about_title: About Me
-#about_profile_image: images/profile.jpg
+about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Bhargesh Patel and I'm looking to establish myself as a technocrat in the technological area, utilizing my skills for the benefit of the corporate and the society as whole.
 
